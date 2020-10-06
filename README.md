@@ -2,7 +2,11 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/dWezbxi4SoWon0cIdPI35w/badge)](https://hackmd.io/dWezbxi4SoWon0cIdPI35w)
 
+# 是吧 #
 
+所以badge之後想要在github打開，然後想要在
+
+單純真的重要。複雜只是讓人很困擾。
 
 ## 專業:上網打屁聊天
 ### sleep
